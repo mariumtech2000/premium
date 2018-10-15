@@ -1,0 +1,41 @@
+.card-header-1{
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 2em;
+}
+
+.card-header{
+    padding: 20px;
+    background: #eeeeee;
+    color: black;
+    font-size: 1.6em;
+    text-align: center;
+}
+#button{
+    width: 110px;
+}
+li{
+    text-align: center;
+    font-size: 1.1em;
+}
+.list-group-item{
+    padding: 20px;
+}
+.main-cointainer{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+.card{
+    margin-top: 10px;
+}
+.card-header-2{
+    background: #53b050;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 2em;
+}
